@@ -1,0 +1,22 @@
+{
+  "name": "target-test-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "challenge1": "tsx ./src/challenge1.ts",
+    "challenge2": "tsx ./src/challenge2.ts 144",
+    "challenge3": "tsx ./src/challenge3.ts",
+    "challenge4": "tsx ./src/challenge4.ts",
+    "challenge5": "tsx ./src/challenge5.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
